@@ -1,10 +1,10 @@
-I'm Sakshi Gupta, final year undergraduate student. I am passionate about technologies and open source. I am a Python Developer.
+I'm Sakshi Gupta, final year undergraduate student. I am passionate about technologies and open source. I am a Python Developer and Data Analyst.
 
 
-- 🔭 I’m currently working on Web Development
+- 🔭 I’m currently workking on Data Science 
 - 🌱 I’m currently learning Data Structures and Algorithms
-- 💬 Hobbies : Reading and Writing Blogs
--  ⚡ Languages: Python3
+- 💬 Hobbies : Reading and Writing Blogs, Cycling
+- ⚡ Languages: Python3
 
 
  📫 Get in touch: 
