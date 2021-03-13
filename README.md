@@ -1,8 +1,8 @@
 I'm Sakshi Gupta, final year undergraduate student. I am passionate about technologies and open source. 
 
 
-- 🔭 I’m a Data Analyst and Python Developer.
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🔭 I’m Software Engineer at DXC Technology.
+- 🌱 I’m currently learning Web Development.
 - 💬 Hobbies : Reading and Writing Blogs, Cooking
 - ⚡ Languages: Python3, Core Java
 
