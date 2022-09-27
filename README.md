@@ -1,10 +1,10 @@
-I'm Sakshi Gupta, final year undergraduate student. I am passionate about technologies and open source. 
+I'm Sakshi Gupta, I am passionate about technologies and open source. 
 
 
-- 🔭 I’m Software Engineer at DXC Technology.
-- 🌱 I’m currently learning Web Development.
-- 💬 Hobbies : Reading and Writing Blogs, Cooking
-- ⚡ Languages: Python3, Core Java
+- 🔭 I’m Software Engineer at Brightly.
+- 🌱 I’m currently working on Frontend Development.
+- 💬 Hobbies : Reading, Cooking and Writing 
+- ⚡ Languages: JS, Vue, Node 
 
 
  📫 Get in touch: 
