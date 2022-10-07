@@ -12,4 +12,7 @@ I'm Sakshi Gupta, I am passionate about technologies and open source.
 - [linkedin.com/in/sakshigupta06](https://www.linkedin.com/in/sakshigupta06/)
 - [hashnode.com/@sakshi](https://sakshi.hashnode.dev/)
 
+<p align="left">
+  <img alt="Sakshi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sakshigupta06&show_icons=true&theme=radical">
+</p>
   
